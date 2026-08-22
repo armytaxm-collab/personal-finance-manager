@@ -182,7 +182,7 @@ personal-finance-manager/
 - SQL injection prevention
 - XSS protection
 
-## 📊 Income Categories
+## 💰 Income Categories
 
 - Salary
 - Business
@@ -215,7 +215,7 @@ personal-finance-manager/
 - Debit Card
 - Other
 
-## 🌍 Localization
+## 🌐 Localization
 
 - **Currency**: Indian Rupee (₹)
 - **Date Format**: DD/MM/YYYY
